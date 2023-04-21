@@ -16,7 +16,7 @@ public class ElectionApp {
         can.setProperty("500cr");
 
         Election ele = new Election();
-        ele.setCity("Nagpur");
+        ele.setCity("Nagpur ");
         ele.setDateOfElection(getNextDate(20));
         ele.setCriteria("Engineer");
 

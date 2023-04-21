@@ -8,12 +8,12 @@ import java.util.Date;
 
 public class ElectionApp {
     public static void main(String[] args) {
-        Candidate can = new Candidate();
-        can.setName("Ghansham");
-        can.setAge(45);
-        can.setCriminalRecord(0);
-        can.setEducation("Engineer");
-        can.setProperty("500cr");
+        Candidate ghansham = new Candidate();
+        ghansham.setName("Ghansham");
+        ghansham.setAge(45);
+        ghansham.setCriminalRecord(0);
+        ghansham.setEducation("Engineer");
+        ghansham.setProperty("500cr");
 
         Election ele = new Election();
         ele.setCity("Nagpur");

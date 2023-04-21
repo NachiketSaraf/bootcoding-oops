@@ -20,7 +20,7 @@ public class ElectionApp {
         ele.setDateOfElection(getNextDate(20));
         ele.setCriteria("Engineer");
 
-        System.out.println(can);
+        System.out.println(ghansham);
         System.out.println(ele);
 
     }

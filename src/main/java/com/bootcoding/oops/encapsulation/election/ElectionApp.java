@@ -29,6 +29,5 @@ public class ElectionApp {
         cal.add(Calendar.DATE,days);
         //System.out.println("Date = "+ cal.getTime());
         return cal.getTime();
-
     }
 }

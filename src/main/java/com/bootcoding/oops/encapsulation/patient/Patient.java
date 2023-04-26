@@ -8,10 +8,6 @@ public class Patient {
     private Date dateOfAdmission;
     private Date dateOfDischarged;
 
-    public String getDisease() {
-        return disease;
-    }
-
     public void setDisease(String disease) {
         this.disease = disease;
     }

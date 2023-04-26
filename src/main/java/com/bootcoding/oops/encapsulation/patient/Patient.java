@@ -20,10 +20,6 @@ public class Patient {
         this.dateOfAdmission = dateOfAdmission;
     }
 
-    public Date getDateOfDischarged() {
-        return dateOfDischarged;
-    }
-
     public void setDateOfDischarged(Date dateOfDischarged) {
         this.dateOfDischarged = dateOfDischarged;
     }

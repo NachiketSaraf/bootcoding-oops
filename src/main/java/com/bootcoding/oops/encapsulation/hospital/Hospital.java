@@ -8,10 +8,6 @@ public class Hospital {
     private String address;
     private String services;
 
-    public String getName() {
-        return name;
-    }
-
     public void setName(String name) {
         this.name = name;
     }

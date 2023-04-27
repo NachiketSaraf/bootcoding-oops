@@ -12,6 +12,7 @@ public class Patient {
         this.disease = disease;
     }
 
+
     public void setName(String name) {
         this.name = name;
     }

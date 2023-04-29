@@ -5,7 +5,7 @@ public class BannerApplication {
         FlexBanner fb = new FlexBanner();
         fb.material = "New batches of java is starting soon";
         fb.type = "Flex banner";
-        fb.create();
+        //fb.create();
         fb.display();
     }
 }

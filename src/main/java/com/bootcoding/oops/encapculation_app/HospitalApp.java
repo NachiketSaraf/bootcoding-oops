@@ -1,4 +1,4 @@
-package com.bootcoding.oops;
+package com.bootcoding.oops.encapculation_app;
 
 import com.bootcoding.oops.encapsulation.hospital.Hospital;
 import com.bootcoding.oops.encapsulation.patient.Patient;

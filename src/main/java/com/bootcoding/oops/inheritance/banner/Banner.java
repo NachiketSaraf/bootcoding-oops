@@ -8,7 +8,9 @@ public class Banner {
     String text;
     String dimension;
     double price;
-
+    Banner(){
+        System.out.println("Banner has been created");
+    }
     public void create(){
         System.out.println("Banner has been created");
     }

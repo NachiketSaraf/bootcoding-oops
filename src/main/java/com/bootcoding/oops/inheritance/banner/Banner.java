@@ -9,7 +9,7 @@ public class Banner {
     String dimension;
     double price;
     Banner(){
-        System.out.println("Banner has been created");
+        System.out.println("Banner object is created");
     }
     public void create(){
         System.out.println("Banner has been created");

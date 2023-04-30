@@ -12,6 +12,5 @@ public class BannerApplication {
         fb.type = "Flex banner";
         fb.create();
         fb.display();
-        System.out.println(bn.type);
     }
 }

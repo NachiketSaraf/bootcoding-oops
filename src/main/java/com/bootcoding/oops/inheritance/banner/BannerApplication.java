@@ -6,7 +6,6 @@ public class BannerApplication {
         bn.color = "white";
         bn.material = "Hello Java";
 
-        bn.create();
         bn.display();
         FlexBanner fb = new FlexBanner();
         fb.material = "New batches of java is starting soon";

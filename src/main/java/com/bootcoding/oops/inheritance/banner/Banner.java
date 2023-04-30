@@ -16,5 +16,7 @@ public class Banner {
     }
     public void display(){
         System.out.println("Display");
+        System.out.println("material "+material);
+        System.out.println("type "+type);
     }
 }

@@ -3,6 +3,7 @@ package com.bootcoding.oops.inheritance.meter;
 public class Meter {
     int voltage;
     String type;
+    String color;
     public void create(){
         System.out.println("created");
     }

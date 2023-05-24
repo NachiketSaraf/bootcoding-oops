@@ -5,7 +5,7 @@ public class Banner {
     String matter;
     String type;
     String material;
-    //String text;
+    String text;
     //String dimension;
     //double price;
     Banner(){

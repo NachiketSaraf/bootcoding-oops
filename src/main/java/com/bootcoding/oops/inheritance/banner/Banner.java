@@ -6,7 +6,7 @@ public class Banner {
     String type;
     String material;
     String text;
-    //String dimension;
+    String dimension;
     //double price;
     Banner(){
         System.out.println("Banner object is created");

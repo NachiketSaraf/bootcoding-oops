@@ -2,7 +2,7 @@ package com.bootcoding.oops.inheritance.banner;
 
 public class Banner {
     String color;
-    //String matter;
+    String matter;
     String type;
     String material;
     //String text;

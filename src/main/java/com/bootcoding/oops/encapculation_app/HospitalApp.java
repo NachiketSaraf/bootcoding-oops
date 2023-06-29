@@ -27,7 +27,8 @@ public class HospitalApp {
     private static Date getPreviousDate(int days){
         Calendar cal =Calendar.getInstance();
         cal.add(Calendar.DATE,days*-1);
-        //System.out.println("Date = "+ cal.getTime());
+        System.out.println("Date = "+ cal.getTime());
+
         return cal.getTime();
 
     }

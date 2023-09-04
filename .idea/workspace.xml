@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e09a727-20ae-420c-8f4d-05f2d6ec2bfd" name="Changes" comment="All">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5e09a727-20ae-420c-8f4d-05f2d6ec2bfd" name="Changes" comment=".xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2RsOYmy4K1xoppTlblAKAvMigKX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -169,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692972220174</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=".xml">
+      <option name="closed" value="true" />
+      <created>1693503650850</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693503650850</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,7 +185,8 @@
     <MESSAGE value="Banner" />
     <MESSAGE value="A class" />
     <MESSAGE value="All" />
-    <option name="LAST_COMMIT_MESSAGE" value="All" />
+    <MESSAGE value=".xml" />
+    <option name="LAST_COMMIT_MESSAGE" value=".xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
